@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://limpiatapizados.com.ar/sitemap.xml
